@@ -1,6 +1,6 @@
 {
   "name": "license-sh",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "scripts": {
     "start": "(ENV=dev now dev -A ./now.dev.json &) && node ./smee.js",
     "deploy:prod": "now deploy -A ./now.prod.json",
