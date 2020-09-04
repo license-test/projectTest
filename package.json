@@ -79,7 +79,7 @@
     "redux-observable": "1.2.0",
     "semver": "6.0.0",
     "session-file-store": "1.2.0",
-    "simple-crypto-js": "2.2.0",
+    "simple-crypto-js": "2.3.0",
     "slick-carousel": "1.8.1",
     "spdx-correct": "3.1.0",
     "spdx-satisfies": "5.0.0",
