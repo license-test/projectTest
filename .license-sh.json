@@ -1,10 +1,5 @@
 {
-  "projects": [
-    "./Pipfile.lock",
-    "./package-lock.json",
-    "./pom.xml",
-    "./yarn.lock"
-  ],
+  "ignored_packages": {},
   "whitelist": [
     "Apache-1.0",
     "Apache-1.1",
@@ -37,5 +32,10 @@
     "Public Domain",
     "CPL-1.0"
   ],
-  "ignored_packages": {}
+  "projects": [
+    "./package-lock.json",
+    "./pom.xml",
+    "./yarn.lock"
+  ],
+  "overridden_packages": {}
 }
