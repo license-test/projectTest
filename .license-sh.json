@@ -35,7 +35,8 @@
   "projects": [
     "./package-lock.json",
     "./pom.xml",
-    "./yarn.lock"
+    "./yarn.lock",
+    "./Pipfile.lock"
   ],
   "overridden_packages": {}
 }
