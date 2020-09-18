@@ -9,6 +9,23 @@
       "license-sh==1.0.24",
       "prompt-toolkit==3.0.7",
       "setuptools==46.4.0"
+    ],
+    "yarn": [
+      "ignore-loader==0.1.2",
+      "isomorphic-unfetch==3.0.0",
+      "use-subscription==1.1.1",
+      "json-schema==0.2.3"
+    ],
+    "maven": [
+      "commons-beanutils==1.7.0",
+      "commons-digester==1.6",
+      "plexus-i18n==1.0-beta-7",
+      "plexus-velocity==1.1.7",
+      "oro==2.0.8",
+      "dom4j==1.1",
+      "antlr==2.7.2",
+      "classworlds==1.1",
+      "xercesMinimal==1.9.6.2"
     ]
   },
   "whitelist": [
@@ -41,7 +58,11 @@
     "EPL-1.0",
     "MPL 1.1",
     "Public Domain",
-    "CPL-1.0"
+    "CPL-1.0",
+    "Apache License",
+    "New BSD License",
+    "SEE LICENSE IN LICENSE",
+    "0BSD"
   ],
   "projects": [
     "./package-lock.json",
