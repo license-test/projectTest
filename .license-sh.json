@@ -1,5 +1,16 @@
 {
-  "ignored_packages": {},
+  "ignored_packages": {
+    "pipenv": [
+      "chardet==3.0.4",
+      "distlib==0.3.1",
+      "filelock==3.0.12",
+      "idna==2.10",
+      "license-sh-private==1.1.6",
+      "license-sh==1.0.24",
+      "prompt-toolkit==3.0.7",
+      "setuptools==46.4.0"
+    ]
+  },
   "whitelist": [
     "Apache-1.0",
     "Apache-1.1",
